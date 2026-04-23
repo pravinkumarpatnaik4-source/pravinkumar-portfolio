@@ -1,1 +1,1 @@
-this directory has all the images used in the final projecct
+addng all projects related images
